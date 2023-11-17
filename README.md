@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vraeh&label=Profile%20views&color=0e75b6&style=flat" alt="vraeh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vraeh&label=Profile%20views&color=0e75b6&style=flat" alt="vraeh" /> </p>
 
 - 🔭 I’m currently working at [PDInt in Universidad del Bío-Bío](https://github.com/Vraeh/PDInt)
 
