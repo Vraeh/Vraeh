@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Python, OpenCV, PyTorch, TensorFlow**
 
-- 👯 I’m looking to collaborate on **A.I projects**
+- 👯 I’m looking to collaborate on **AI projects**
 
-- 📫 How to reach me **vicente.aedo2301@alumnos.ubiobio.cl**
+- 📫 Reach me at my email **vicente.aedo2301@alumnos.ubiobio.cl**
 
 - 📄 Know about my experiences [https://linkedin.com/in/vicea](https://linkedin.com/in/vicea)
 
-- ⚡ Fun fact **I love my cat**
+- ⚡ Fun fact **I love my cat :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
