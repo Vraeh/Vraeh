@@ -28,6 +28,8 @@
 
 - ⚡ Fun fact: **I love my cat <3**
 
+---------------------------------
+
 ###
 
 <div align="center">
