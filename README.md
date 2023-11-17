@@ -100,14 +100,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/bl360atsg3la3li1s9rtli43l">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bl360atsg3la3li1s9rtli43l&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Vraeh/Vraeh/output/snake.svg" alt="Snake animation" />
