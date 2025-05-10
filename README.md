@@ -16,7 +16,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vraeh&label=Profile%20views&color=0e75b6&style=flat" alt="vraeh" /> </p>
 
-- 🔭 I’m currently working at [PDInt at the Universidad del Bío-Bío](https://github.com/Vraeh/PDInt)
+- 🔭 I’m currently working in **Rentoso SpA & CampusVivo**
 
 - 🌱 I’m currently learning **Python, OpenCV, PyTorch and TensorFlow**
 
