@@ -16,17 +16,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vraeh&label=Profile%20views&color=0e75b6&style=flat" alt="vraeh" /> </p>
 
-- 🔭 I’m currently working in **Rentoso SpA & CampusVivo**
+- 🔭 I’m currently working in **RentOso & CampusVivo**
 
-- 🌱 I’m currently learning **Python, OpenCV, PyTorch and TensorFlow**
+- 🌱 I’m currently learning **Redis Databases**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
 - 📫 Reach me at my email **vicente.aedo2301@alumnos.ubiobio.cl**
 
-- 📄 Know about my experiences in [https://linkedin.com/in/vicea](https://linkedin.com/in/vicea)
+- 📄 Know about my experiences in [https://linkedin.com/in/vraeh](https://linkedin.com/in/vraeh)
 
-- ⚡ Fun fact: **I love my cat <3**
+- ⚡ Fun fact: **I love my cats <3**
 
 ---------------------------------
 
