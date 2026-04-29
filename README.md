@@ -16,9 +16,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vraeh&label=Profile%20views&color=0e75b6&style=flat" alt="vraeh" /> </p>
 
-- 🔭 I’m currently working in **RentOso & CampusVivo**
+- 🔭 I’m currently working in **freelance projects**
 
-- 🌱 I’m currently learning **Redis Databases**
+- 🌱 I’m currently learning **Q# (Quantum programming language)**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
