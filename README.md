@@ -82,12 +82,13 @@ What moves me is technology that solves something concrete, not pretty projects 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.hackclub.dev/api?username=Vraeh&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10&locale=en" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Vraeh&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=10" alt="Streak"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vraeh&theme=dracula" alt="GitHub stats"/>
+<img height="200" src="https://streak-stats.demolab.com?user=Vraeh&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=10" alt="Streak"/>
 
 <br>
 
-<img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs?username=Vraeh&locale=en&layout=compact&card_width=340&langs_count=6&theme=dracula&hide_border=true&border_radius=10&custom_title=Most%20Used%20Languages" alt="Top languages"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vraeh&theme=dracula" alt="Top languages by commit"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vraeh&theme=dracula" alt="Top languages by repo"/>
 
 </div>
 
