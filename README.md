@@ -26,7 +26,7 @@
 - 🎓 Studying **Computer Engineering** at Universidad del Bío-Bío
 - 🌱 Currently learning **Q#** (quantum programming language)
 - 👯 Looking to collaborate on **AI projects**
-- 📫 Reach me at **vicente.aedo2301@alumnos.ubiobio.cl**
+- 📫 Reach me at **vraeh@vraeh.dev**
 - 📄 More about my experience at **[linkedin.com/in/vraeh](https://linkedin.com/in/vraeh)**
 - ⚡ Fun fact: **I love my cats <3**
 
@@ -109,7 +109,7 @@ What moves me is technology that solves something concrete, not pretty projects 
 - 🎓 ビオビオ大学（Universidad del Bío-Bío）で **情報工学** を専攻中
 - 🌱 **Q#**（量子プログラミング言語）を学習中
 - 👯 **AI プロジェクト** での協業を探しています
-- 📫 連絡先：**vicente.aedo2301@alumnos.ubiobio.cl**
+- 📫 連絡先：**vraeh@vraeh.dev**
 - ⚡ 豆知識：**猫が大好きです <3**
 
 ### 🚀 進行中のプロジェクト
