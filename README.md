@@ -56,47 +56,40 @@ What moves me is technology that solves something concrete, not pretty projects 
 
 ## 🛠️ Tech stack
 
-<div align="center">
+<p align="center">
+<b>AI / ML</b>&nbsp;&nbsp;<img height="34" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,jupyter&theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV, scikit-learn, Jupyter"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Frontend</b>&nbsp;&nbsp;<img height="34" src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Bootstrap"/>
+</p>
 
-**AI / ML**
-
-[![AI stack](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,jupyter&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![Frontend stack](https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
-
-**Backend & databases**
-
-[![Backend stack](https://skillicons.dev/icons?i=nodejs,java,c,postgres,mysql&theme=dark)](https://skillicons.dev)
-
-**Infra & Tools**
-
-[![Infra stack](https://skillicons.dev/icons?i=gcp,linux,git,bash,arduino,figma&theme=dark)](https://skillicons.dev)
-
-</div>
+<p align="center">
+<b>Backend &amp; DB</b>&nbsp;&nbsp;<img height="34" src="https://skillicons.dev/icons?i=nodejs,java,c,postgres,mysql&theme=dark" alt="Node.js, Java, C, PostgreSQL, MySQL"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Infra &amp; tools</b>&nbsp;&nbsp;<img height="34" src="https://skillicons.dev/icons?i=gcp,linux,git,bash,arduino,figma&theme=dark" alt="Google Cloud, Linux, Git, Bash, Arduino, Figma"/>
+</p>
 
 ---
 
 ## 📊 GitHub stats
 
-<div align="center">
+<p align="center">
+<img height="155" src="./profile/stats.svg" alt="GitHub stats"/>
+<img height="155" src="./profile/top-langs.svg" alt="Most used languages"/>
+</p>
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vraeh&theme=dracula" alt="GitHub stats"/>
-<img height="200" src="https://streak-stats.demolab.com?user=Vraeh&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=10" alt="Streak"/>
-
-<br>
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vraeh&theme=dracula" alt="Top languages by commit"/>
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vraeh&theme=dracula" alt="Top languages by repo"/>
-
-</div>
+<p align="center">
+<img height="155" src="https://streak-stats.demolab.com?user=Vraeh&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=10" alt="Contribution streak"/>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vraeh/Vraeh/output/snake.svg" alt="Snake eating my contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vraeh/Vraeh/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vraeh/Vraeh/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Vraeh/Vraeh/output/snake.svg" alt="Snake eating my contribution graph"/>
+</picture>
 
 <br><br>
 
